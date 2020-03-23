@@ -1,0 +1,12 @@
+{
+  "minimumVersion" : 1,
+  "packages" : [
+    {
+      "title" : "aylmao",
+      "name" : "pack1",
+      "version" : "2020-03-22-18-52-32",
+      "location" : "pack1.json",
+      "priority" : 0
+    }
+  ]
+}
