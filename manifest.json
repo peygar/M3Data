@@ -25,7 +25,8 @@
         "mods:ChickenASM:1.12-1.0.2.7",
         "mods:CodeChickenLib:1.12.2-3.2.3.358:universal",
         "mods:Mantle:1.12-1.3.3.55",
-        "mods:MrTJPCore:1.12.2-2.1.4.43:universal"
+        "mods:MrTJPCore:1.12.2-2.1.4.43:universal",
+        "mods:Chisel-MC:1.12.2-1.0.1.44"
       ],
       "name": "crib"
     }
