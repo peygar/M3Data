@@ -34,7 +34,10 @@
         "mods:platforms:1.12.0-1.4.6",
         "mods:shetiphiancore:1.12.0-3.5.9",
         "mods:SereneSeasons:1.12.2-1.2.18:universal",
-        "mods:SimplyJetpacks2:1.12.2-2.2.14.67"
+        "mods:SimplyJetpacks2:1.12.2-2.2.14.67",
+        "mods:omlib:1.12.2-3.1.4.249",
+        "mods:ompd:1.12.2-3.1.0.61",
+        "mods:openmodularturrets:1.12.2-3.1.7.367"
       ],
       "name": "crib"
     }
