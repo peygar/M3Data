@@ -32,7 +32,8 @@
         "mods:NotEnoughScaffold:1.12.2-1.10",
         "mods:BetterFps:1.12.2-1.4.8",
         "mods:platforms:1.12.0-1.4.6",
-        "mods:shetiphiancore:1.12.0-3.5.9"
+        "mods:shetiphiancore:1.12.0-3.5.9",
+        "mods:SereneSeasons:1.12.2-1.2.18:universal"
       ],
       "name": "crib"
     }
