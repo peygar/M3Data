@@ -30,7 +30,9 @@
         "mods:CTM:1.12.2-1.0.1.30",
         "mods:ThermalInnovation:1.12.2-0.3.3.12:universal",
         "mods:NotEnoughScaffold:1.12.2-1.10",
-        "mods:BetterFps:1.12.2-1.4.8"
+        "mods:BetterFps:1.12.2-1.4.8",
+        "mods:platforms:1.12.0-1.4.6",
+        "mods:shetiphiancore:1.12.0-3.5.9"
       ],
       "name": "crib"
     }
