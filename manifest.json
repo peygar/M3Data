@@ -28,7 +28,8 @@
         "mods:MrTJPCore:1.12.2-2.1.4.43:universal",
         "mods:Chisel:1.12.2-1.0.1.44",
         "mods:CTM:1.12.2-1.0.1.30",
-        "mods:ThermalInnovation:1.12.2-0.3.3.12:universal"
+        "mods:ThermalInnovation:1.12.2-0.3.3.12:universal",
+        "mods:NotEnoughScaffold:1.12.2-1.10"
       ],
       "name": "crib"
     }
