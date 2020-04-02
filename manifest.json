@@ -37,7 +37,10 @@
         "mods:SimplyJetpacks2:1.12.2-2.2.14.67",
         "mods:omlib:1.12.2-3.1.4.249",
         "mods:ompd:1.12.2-3.1.0.61",
-        "mods:openmodularturrets:1.12.2-3.1.7.367"
+        "mods:openmodularturrets:1.12.2-3.1.7.367",
+        "mods:base:1.12.2-3.13.0",
+        "mods:conarm:1.12.2-1.2.5.4",
+        "mods:CraftTweaker2:1.12-4.1.20"
       ],
       "name": "crib"
     }
