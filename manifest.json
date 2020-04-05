@@ -43,7 +43,8 @@
         "mods:CraftTweaker2:1.12-4.1.20",
         "mods:Bloodmoon:1.12.2-1.5.3",
         "mods:B3M:1.12.2-15",
-        "mods:ThermalCultivation:1.12.2-0.3.6.1:universal"
+        "mods:ThermalCultivation:1.12.2-0.3.6.1:universal",
+        "mods:swimming:1.12.2-1.1.0"
       ],
       "name": "crib"
     }
