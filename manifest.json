@@ -46,7 +46,8 @@
         "mods:ThermalCultivation:1.12.2-0.3.6.1:universal",
         "mods:swimming:1.12.2-1.1.0",
         "mods:DynamicSurroundings:1.12.2-3.6.0.2",
-        "mods:OreLib:1.12.2-3.6.0.1"
+        "mods:OreLib:1.12.2-3.6.0.1",
+        "mods:TinkersComplement:1.12.2-0.4.3"
       ],
       "name": "crib"
     }
