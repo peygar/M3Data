@@ -47,7 +47,8 @@
         "mods:TinkersComplement:1.12.2-0.4.3",
         "mods:modular-routers:1.12.2-3.2.2",
         "mods:CosmeticArmorReworked:1.12.2",
-        "mods:AppleSkin:1.12-1.0.9"
+        "mods:AppleSkin:1.12-1.0.9",
+        "mods:Clumps:3.1.2"
       ],
       "name": "crib"
     }
