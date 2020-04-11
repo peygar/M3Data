@@ -45,7 +45,8 @@
         "mods:B3M:1.12.2-15",
         "mods:ThermalCultivation:1.12.2-0.3.6.1:universal",
         "mods:TinkersComplement:1.12.2-0.4.3",
-	      "mods:modular-routers:1.12.2-3.2.2"
+        "mods:modular-routers:1.12.2-3.2.2",
+        "mods:CosmeticArmorReworked:1.12.2"
       ],
       "name": "crib"
     }
